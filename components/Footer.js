@@ -5,7 +5,7 @@ const Footer = () => {
         <h5 className='font-bold'>About</h5>
         <p>Accessibility</p>
         <p>This is not real site</p>
-        <p>It's a pretty awesome </p>
+        <p>Its a pretty awesome </p>
         <p>Referrals accepted</p>
         <p>Papafam</p>
       </div>
@@ -13,7 +13,7 @@ const Footer = () => {
         <h5 className='font-bold'>About</h5>
         <p>Accessibility</p>
         <p>This is not real site</p>
-        <p>It's a pretty awesome </p>
+        <p>Its a pretty awesome </p>
         <p>Referrals accepted</p>
         <p>Papafam</p>
       </div>
@@ -21,7 +21,7 @@ const Footer = () => {
         <h5 className='font-bold'>About</h5>
         <p>Accessibility</p>
         <p>This is not real site</p>
-        <p>It's a pretty awesome </p>
+        <p>Its a pretty awesome </p>
         <p>Referrals accepted</p>
         <p>Papafam</p>
       </div>
@@ -29,7 +29,7 @@ const Footer = () => {
         <h5 className='font-bold'>About</h5>
         <p>Accessibility</p>
         <p>This is not real site</p>
-        <p>It's a pretty awesome </p>
+        <p>Its a pretty awesome </p>
         <p>Referrals accepted</p>
         <p>Papafam</p>
       </div>
