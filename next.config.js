@@ -16,6 +16,9 @@ const nextConfig = {
         pathname: '**'
       },
     ],
+  },
+  env: {
+    mapbox_key: "pk.eyJ1IjoiYXNodXRvc2gyMjExMDEiLCJhIjoiY2xoYnZ6cWU1MHZqMzN0bnRzaWthajdoZSJ9.MCjgl3MqyevtY24n3ZEYGg"
   }
 
 }
